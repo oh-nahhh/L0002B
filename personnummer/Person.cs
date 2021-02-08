@@ -2,7 +2,6 @@
 Introduktion till programmering och C# L0002B
 Inlämningsuppgift 3
 Niklas Bergqvist
-870310-4037
 */
 
 using System;
